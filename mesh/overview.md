@@ -16,3 +16,11 @@ https://rf.eefocus.com/article/id-333052
 ## 配网有两种方式，
 ### 一种是通过ADV广播的方式进行配网（PB-ADV）
 ### 一种是通过GATT连接的方式进行配网（PB-GATT）
+
+
+# 3 zigbee
+
+
+# 4 蓝牙mesh 🆚 zigbee
+
+https://smarthome.ofweek.com/2021-10/ART-91000-8500-30528352.html
